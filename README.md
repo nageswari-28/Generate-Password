@@ -1,1 +1,1 @@
-# Generate-Password
+# Generate a random password
